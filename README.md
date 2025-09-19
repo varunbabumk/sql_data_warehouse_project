@@ -1,8 +1,8 @@
-# sql_data_warehouse_project
-Building a modern Data Warehouse with SQL Server,including ETL processes,data modelling,analytics.
-# 📊 Data Warehouse and Analytics Project
 
-Welcome to the **Data Warehouse and Analytics Project** repository! 🚀  
+Building a modern Data Warehouse with SQL Server,including ETL processes,data modelling,analytics.
+# 📊 sql_data_warehouse_project
+
+Welcome to the **sql_data_warehouse_project** repository! 🚀  
 This project demonstrates a **comprehensive data warehousing and analytics solution**, from building a modern data warehouse to generating actionable insights. Designed as a **portfolio project**, it highlights industry best practices in **data engineering, data modeling, and analytics**.
 
 ---
@@ -75,5 +75,5 @@ These insights empower stakeholders with **key business metrics**, enabling **da
 ## 🚀 How to Use
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/data-warehouse-analytics.git
-   cd data-warehouse-analytics
+   git clone https://github.com/varunbabumk/sql_data_warehouse_project.git
+   cd sql_data_warehouse_project
